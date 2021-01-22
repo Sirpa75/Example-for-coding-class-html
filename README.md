@@ -1,4 +1,4 @@
-# Example-for-coding-class-html
+# Example-for-coding-class
 <!DOCTYPE html>
 <html> 
 <head>
